@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismailcolakk13&label=Profile%20views&color=0e75b6&style=flat" alt="ismailcolakk13" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ismailcolakk13" alt="ismailcolakk13" /></a> </p>
-
 - 🌱 I’m currently learning **Spring Boot, ReactJS, ViteJS**
 
 - 📫 How to reach me **ismailcolakk13@gmail.com**
