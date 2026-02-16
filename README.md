@@ -1,7 +1,7 @@
 <h1 align="center">Merhaba 👋, Ben İsmail Çolak</h1>
 <h3 align="center">İstanbul Üniversitesi – Cerrahpaşa'da Bilgisayar Mühendisliği Öğrencisi</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ismailcolakk13&label=Profil%20Görüntülenme&color=0e75b6&style=flat" alt="ismailcolakk13" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ismailcolakk13&label=Profil%20Görüntülenme&color=0e75b6&style=flat" alt="ismailcolakk13" /> </p>
 
 - 🎓 **İstanbul Üniversitesi – Cerrahpaşa** Bilgisayar Mühendisliği 4. sınıf öğrencisiyim.
 - ✅ 2025 yazında **Havelsan HIT Staj** programında yaz stajımı tamamladım. Burada Apache Kafka kullanarak Java uygulamaları geliştirdim.
@@ -12,11 +12,23 @@
 
 - 📫 Bana ulaşın: **ismailcolakk13@gmail.com**
 
-<h3 align="left">Bağlantılar:</h3>
-<p align="left">
-</p>
+<br>
 
-<h3 align="left">Diller ve Araçlar:</h3>
+<h1 align="center">Hello 👋, I'm İsmail Çolak</h1>
+<h3 align="center">Computer Engineering Student at Istanbul University – Cerrahpaşa</h3>
+
+- 🎓 I am a 4th-year Computer Engineering student at **Istanbul University – Cerrahpaşa**.
+- ✅ I completed my summer internship at **Havelsan HIT Internship** program in Summer 2025, where I developed Java applications using Apache Kafka.
+- 🔭 I am currently doing my winter internship at **Turkcell Genç Yetenek** program and working on my graduation thesis on **UAV component optimization using AI**.
+- 🌱 I am currently learning **.NET, Flutter** and I am interested in Pixel Art.
+- 💡 I am interested in **Backend Development, Game Development**, and **Full-Stack Web Development**.
+- 🐧 I use Windows and **Linux (Fedora/Ubuntu)**.
+
+- 📫 Reach me at: **ismailcolakk13@gmail.com**
+
+<hr/>
+
+<h3 align="left">Languages and Tools / Diller ve Araçlar:</h3>
 <p align="left"> 
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
