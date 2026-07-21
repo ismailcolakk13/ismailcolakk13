@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ismailcolakk13&label=Profil%20Görüntülenme&color=0e75b6&style=flat" alt="ismailcolakk13" /> </p>
 
-- 🎓 **İstanbul Üniversitesi – Cerrahpaşa** Bilgisayar Mühendisliği 4. sınıf öğrencisiyim.
+- 🎓 **İstanbul Üniversitesi – Cerrahpaşa** Bilgisayar Mühendisliği Bölümünden 3.40/4 GPA ile mezun oldum.
 - ✅ 2025 yazında **Havelsan HIT Staj** programında yaz stajımı tamamladım. Burada Apache Kafka kullanarak Java uygulamaları geliştirdim.
 - 🔭 Şu anda **Turkcell Genç Yetenek** programında kış stajımı yapıyor ve **Yapay Zeka ile İHA parça optimizasyonu** üzerine bitirme tezimle ilgileniyorum.
 - 🌱 Şu anda **.NET, Flutter** öğreniyor ve Pixel Art ile ilgileniyorum.
@@ -11,6 +11,7 @@
 - 🐧 Windows ve **Linux (Fedora/Ubuntu)** kullanıyorum.
 
 - 📫 Bana ulaşın: **ismailcolakk13@gmail.com**
+- Portfolyo **https://ismailcolakk13.github.io/portfolio/**
 
 <br>
 
