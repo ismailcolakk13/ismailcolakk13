@@ -5,10 +5,11 @@
 
 - 🎓 **İstanbul Üniversitesi – Cerrahpaşa** Bilgisayar Mühendisliği Bölümünden 3.40/4 GPA ile mezun oldum.
 - ✅ 2025 yazında **Havelsan HIT Staj** programında yaz stajımı tamamladım. Burada Apache Kafka kullanarak Java uygulamaları geliştirdim.
-- 🔭 Şu anda **Turkcell Genç Yetenek** programında kış stajımı yapıyor ve **Yapay Zeka ile İHA parça optimizasyonu** üzerine bitirme tezimle ilgileniyorum.
-- 🌱 Şu anda **.NET, Flutter** öğreniyor ve Pixel Art ile ilgileniyorum.
-- 💡 **Backend Geliştirme, Oyun Geliştirme** ve **Full-Stack Web Geliştirme** alanlarına ilgi duyuyorum.
-- 🐧 Windows ve **Linux (Fedora/Ubuntu)** kullanıyorum.
+- 🔭 2026 kışında **Turkcell Genç Yetenek** programında kış stajımı yaptım. Burada .NET uygulamaları geliştirdim ve PL/SQL unit testleri yazdım.
+- **TUSAŞ Lift Up** yarışması kapsamında **Yapay Zeka ile İHA parça optimizasyonu** üzerine bitirme tezi yazdım.
+- 🌱 Şu anda **Yapay zeka uygulamaları** ile ilgileniuorum.
+- 💡 **Backend Geliştirme, Mobil Geliştirme, Yapay Zeka (AI) Mühendisliği** ve **Full-Stack Web Geliştirme** alanlarına ilgi duyuyorum.
+- 🐧 Windows, MacOS ve **Linux (Fedora/Ubuntu)** kullanıyorum.
 
 - 📫 Bana ulaşın: **ismailcolakk13@gmail.com**
 - Portfolyo **https://ismailcolakk13.github.io/portfolio/**
@@ -18,12 +19,13 @@
 <h1 align="center">Hello 👋, I'm İsmail Çolak</h1>
 <h3 align="center">Computer Engineering Student at Istanbul University – Cerrahpaşa</h3>
 
-- 🎓 I am a 4th-year Computer Engineering student at **Istanbul University – Cerrahpaşa**.
-- ✅ I completed my summer internship at **Havelsan HIT Internship** program in Summer 2025, where I developed Java applications using Apache Kafka.
-- 🔭 I am currently doing my winter internship at **Turkcell Genç Yetenek** program and working on my graduation thesis on **UAV component optimization using AI**.
-- 🌱 I am currently learning **.NET, Flutter** and I am interested in Pixel Art.
-- 💡 I am interested in **Backend Development, Game Development**, and **Full-Stack Web Development**.
-- 🐧 I use Windows and **Linux (Fedora/Ubuntu)**.
+- 🎓 Graduated with a 3.40/4 GPA in Computer Engineering from **Istanbul University – Cerrahpaşa**.
+- ✅ Completed a summer internship through the **Havelsan HIT Internship** program in Summer 2025, developing Java applications with Apache Kafka.
+- 🔭 Completed a winter internship through the **Turkcell Young Talent** program in Winter 2026, developing .NET applications and writing PL/SQL unit tests.
+- 🛸 Authored a graduation thesis on **UAV part optimization using Artificial Intelligence** as part of the **TUSAŞ Lift Up** program.
+- 🌱 Currently focusing on **Artificial Intelligence applications**.
+- 💡 Interested in **Backend Development, Mobile Development, AI Engineering**, and **Full-Stack Web Development**.
+- 🐧 Experienced with Windows, macOS, and **Linux (Fedora/Ubuntu)**.
 
 - 📫 Reach me at: **ismailcolakk13@gmail.com**
 
